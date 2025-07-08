@@ -5,7 +5,7 @@ Stacked Graph Attention Network with Temporal Modeling for lncRNA-miRNA Associat
 The project involves the development and application of SGAT-TM to extract and analyze features from Long Non-Coding RNAs (lncRNAs) and micro RNAs (miRNAs). The objective is to train and test machine learning models using biological features to understand lncRNA-miRNA behavior and their potential roles in biological processes.
 ## Publication
 Shivani Saxena, Ahsan Z Rizvi, Stacked graph attention network with temporal modeling for lncRNA-miRNA association network, 
-  _ IEEE/ACM Transactions on Computational Biology and Bioinformatics _, 2025
+  _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, 2025
 
 ## Data Description
 The dataset used in this project is stored in a data directory and includes lncRNA and miRNA feautures for training and testing. These datasets contain arrays where each sample corresponds to different features. 
